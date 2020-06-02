@@ -3,7 +3,7 @@ Monday
 Tuesday
 Wednesday
 Friday
-
+Sunday
 Thursday
 Saturday 
 
